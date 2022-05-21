@@ -1,4 +1,4 @@
-module uuidtobase64
+module github.com/barbiero/uuidtobase64
 
 go 1.18
 
