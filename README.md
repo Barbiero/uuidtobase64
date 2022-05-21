@@ -15,5 +15,5 @@ uuidtobase64 [UUID]
 clone the repo or install with
 
 ```sh
-go install github.com/barbiero/uuidtobase64
+go install github.com/barbiero/uuidtobase64@latest
 ```
